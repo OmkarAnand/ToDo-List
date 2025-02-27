@@ -1,0 +1,10 @@
+.container{
+    
+    margin-top: 70px;
+    max-width: 30%;
+    margin-left: 40%;
+}
+
+body{
+    background-image:url("/IMAGES/background.jpg");
+}
